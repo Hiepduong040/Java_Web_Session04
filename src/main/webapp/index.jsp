@@ -12,12 +12,12 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <%--dùng jstl core in ra 1 giá trị --%>
-<a href="products">Ex01</a>
+<a href="ProductServlet">Ex01</a>
 <a href="login.jsp">Ex02</a>
 <a href="main.jsp">Ex03</a>
 <a href="ex04.jsp">Ex04</a>
 <a href="productSearch.jsp">Ex05</a>
-<a href="StudentListServlet">Ex06</a>
+<a href="studentListServlet">Ex06</a>
 <a href="productListEx07.jsp">Ex07</a>
 <a href="revenueStats.jsp">Ex08</a>
 <a href="Ex09">Ex09</a>

@@ -29,7 +29,7 @@ public class studentListServlet extends HttpServlet {
 
         request.setAttribute("studentBT06List", students);
 
-        RequestDispatcher dispatcher = request.getRequestDispatcher("BT06.jsp");
+        RequestDispatcher dispatcher = request.getRequestDispatcher("Ex06.jsp");
         dispatcher.forward(request, response);
     }
 

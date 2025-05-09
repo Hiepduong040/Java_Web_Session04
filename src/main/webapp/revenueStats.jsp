@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="java.util.*, java.text.*" %>
-<%@ page import="com.data.java_web_session04" %>
+<%@ page import="com.data.java_web_session04.*" %>
 <%@ page import="com.data.java_web_session04.Ex08.Revenue" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
